@@ -1,0 +1,13 @@
+name: ExBayEggs
+version: 1.0-SNAPSHOT
+main: org.explorersbay.exbayeggs.Main
+api-version: 1.16
+prefix: EasterEggs
+softdepend: [ PlaceholderAPI ]
+authors: [ ResourcesMCM ]
+description: The easter eggs plugin for Explorer's Bay.
+website: store.explorersbay.com
+commands:
+  eggeditmode:
+    description: The edit mode command for easter eggs.
+    aliases: [eggs, eastereggs]
